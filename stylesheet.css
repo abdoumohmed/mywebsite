@@ -1,0 +1,63 @@
+body{
+    /*background-image: url("skuna.png") ;
+    background-color: rgba(255, 255, 255, 15); /* Adjust the last value (0.5) for transparency */
+    }
+
+a:link{
+    color: blue;
+    border: black solid 5px;
+    padding: 10px 20px;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: red;
+    background-color: blue;
+}
+a:active{
+    color: black;
+}
+* {
+    box-sizing: border-box;
+}
+#schedule{
+    width: 200px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+#div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 20px;
+
+}
+
+#form {
+    align-items: center;
+}
+
+#form p {
+    margin-bottom: 10px;
+}
+
+#form label {
+    margin-bottom: 5px;
+}
+
+
+
